@@ -7,6 +7,9 @@
 #### Organic clustering through fractal path constraints
 Abstract: *Using a fractal path network as a backone to organic growth. This procedural asset provides a controlled method for placement and localization within any digital environment.*
 
+### Publish
+[Composite](https://vimeo.com/603337830) || [Contact Layer Sheet](https://vimeo.com/603334302)
+
 ### Requirements
 - Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.
 - SideFX Houdini 18.5
