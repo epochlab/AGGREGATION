@@ -5,7 +5,7 @@
 ![alt text](https://github.com/epochlab/aggregation/blob/main/sample.png)
 
 #### Organic clustering through fractal path constraints
-Abstract: *Using a fractal path network as a backone to organic growth. This procedural asset provides a controlled method for placement and localization within any digital environment.*
+Abstract: *Using a search-based path optimiser as a backbone for organic growth; this procedural asset provides a controlled method for simulation and localization within any digital environment.*
 
 ### Publish
 [Composite](https://vimeo.com/634689187) || [Contact Layer Sheet](https://vimeo.com/634686522)
