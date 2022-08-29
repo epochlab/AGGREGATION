@@ -2,7 +2,11 @@
 
 **Project ID:** fOquz1s6
 
-![alt text](https://github.com/epochlab/aggregation/blob/main/sample.png)
+<p align="center">
+  <img src="https://github.com/epochlab/aggregation/blob/main/sample.png">
+</p>
+
+--------------------------------------------------------------------
 
 #### Organic clustering using path constraint networks
 Abstract: *Using a search-based path optimiser, this procedural asset provides a controlled method for simulation and localisation of organic growth within any digital environment.*
