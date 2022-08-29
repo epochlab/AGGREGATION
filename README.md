@@ -1,4 +1,4 @@
-# aggregation
+# AGGREGATION
 
 **Project ID:** fOquz1s6
 
