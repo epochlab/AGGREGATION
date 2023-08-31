@@ -3,7 +3,7 @@
 **Project ID:** fOquz1s6
 
 <p align="center">
-  <img src="https://github.com/epochlab/aggregation/blob/main/sample.png">
+  <img src="https://github.com/epochlab/AGGREGATION/blob/main/sample.png">
 </p>
 
 --------------------------------------------------------------------
